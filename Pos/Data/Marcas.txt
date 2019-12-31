@@ -1,0 +1,27 @@
+Generico
+Audi
+BMW
+Fiat
+Ford
+Honda
+Hyundai
+Infiniti
+Jeep
+KIA
+Land Rover
+Lexus
+Mazda
+Mercedes-Benz
+MINI
+Mitsubishi
+Nissan
+Peugeot
+Renault
+SEAT
+Smart
+Subaru
+Suzuki
+Toyota
+Volkswagen
+Volvo
+Otro

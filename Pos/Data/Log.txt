@@ -1,0 +1,5 @@
+31/12/2019 03:29:06 a. m.     Desconocido              Zeus.MainWindowViewModel.ctor                                                   <<<Iniciando programa>>>
+31/12/2019 03:29:06 a. m.     Desconocido              Zeus.MainWindowViewModel .ctor                                                  Inicio de programa completado
+31/12/2019 03:29:09 a. m.     Desconocido              Zeus.MainWindowViewModel Execute_LoginCheckCommand                              Inicio de Sesion Fallida: admin
+31/12/2019 03:29:12 a. m.     admin                    Zeus.MainWindowViewModel Execute_LoginCheckCommand                              Sesion Iniciada Usuario: admin
+31/12/2019 03:29:32 a. m.     admin                    Zeus.MainWindowViewModel Execute_InventoryStartSearchCommand                    Busqueda en Inventario: *
